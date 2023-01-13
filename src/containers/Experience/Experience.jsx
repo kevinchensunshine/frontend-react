@@ -6,8 +6,8 @@ import './Experience.scss';
 
 
 const abouts = [{title: 'Web Development', description: "I am a web developer", imgUrl: images.about01}, 
-{title: 'Web Development', description: "I am a web developer", imgUrl: ''}, 
-{title: 'Web Development', description: "I am a web developer", imgUrl: ''}];
+{title: 'Web Development', description: "I am a web developer", imgUrl: images.about02}, 
+{title: 'Web Development', description: "I am a web developer", imgUrl: images.about03}];
 
 const Experience = () => {
 

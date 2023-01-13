@@ -1,22 +1,12 @@
-.head-text {
-    font-size: small;
-    display: flex;
+.head-texts {
+    font-size: 36px;
+    margin-top: 2.5%;
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
+    
+    @media screen and (max-width: 1200px) {
+        font-size: 12px;
+    }
 }
 
-.app_about {
-    flex: 1;
-    width: 100%;
-    flex-direction: column;
-}
-
-.app__profiles {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    list-style: none;
-}

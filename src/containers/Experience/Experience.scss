@@ -1,8 +1,10 @@
-.app_profiles {
+.experience_profiles {
+    flex: 1;
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
-    margin-top: 2rem;
+    align-items: center;
+
+    list-style: none;
 }
 
 .app__profile-item {
