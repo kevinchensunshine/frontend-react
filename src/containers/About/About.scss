@@ -1,12 +1,37 @@
-.head-texts {
-    font-size: 36px;
-    margin-top: 2.5%;
+.abouts-title {
+    font-size: 300%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.abouts-components {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-left: 10%;
     margin-right: 10%;
-    text-align: center;
-    
-    @media screen and (max-width: 1200px) {
-        font-size: 12px;
+
+    list-style: none;
+
+    .head-texts {
+        font-size: 36px;
+        @media screen and (max-width: 1200px) {
+            font-size: 12px;
+        }
     }
+
+    .arrow {
+        size: 400%;
+        border: solid grey;
+        border-width: 0 6px 6px 0;
+        display: inline-block;
+        padding: 4px;
+      }
+      
+    .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    }
+      
 }
 

@@ -1,6 +1,6 @@
 #home {
     position: relative;
-    background: url('../../assets/bgIMG.png');
+    background: url('../../assets/back.png');
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
@@ -63,7 +63,7 @@
         border-radius: 15px;
         flex-direction: row;
         width: auto;
-
+        background-color: var(--primary-color);
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     }
 
@@ -107,7 +107,7 @@
         
         background: var(--white-color);
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    
+        background-color: var(--primary-color);
         img {
             width: 60%;
             height: 60%;

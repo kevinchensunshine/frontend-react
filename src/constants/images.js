@@ -35,6 +35,15 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import right_arrow from '../assets/right_arrow.png';
+import uiuc from '../assets/uiuc.png';
+import me from '../assets/me.png';
+import back from '../assets/back.png';
+import flory from '../assets/flory_huggins.png';
+import stoc from '../assets/Stoc.png';
+import serv from '../assets/pserv.png';
+import acsl from '../assets/acsl.png';
+
 export default {
   email,
   mobile,
@@ -69,4 +78,12 @@ export default {
   nb,
   skype,
   spotify,
+  right_arrow,
+  uiuc,
+  me,
+  back,
+  flory,
+  stoc,
+  serv,
+  acsl
 };
