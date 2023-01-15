@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/frontend-react/static/css/main.3b8f547e.css",
+    "main.js": "/frontend-react/static/js/main.e38c82ae.js",
+    "static/media/about04.png": "/frontend-react/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/frontend-react/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/frontend-react/static/media/about01.080509de05322b7aafda.png",
+    "static/media/bgWhite.png": "/frontend-react/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/about03.png": "/frontend-react/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/profile.png": "/frontend-react/static/media/profile.26fb7a2e9c3f8e2301df.png",
+    "static/media/spotify.png": "/frontend-react/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/back.png": "/frontend-react/static/media/back.b5caecbeb25d98fdd70b.png",
+    "static/media/Stoc.png": "/frontend-react/static/media/Stoc.74f5145fde537643131b.png",
+    "static/media/nb.png": "/frontend-react/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/me.png": "/frontend-react/static/media/me.4a51d1f0a61728ad4fea.png",
+    "static/media/asus.png": "/frontend-react/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/flory_huggins.png": "/frontend-react/static/media/flory_huggins.9d57ff62d9014e3b417d.png",
+    "static/media/adidas.png": "/frontend-react/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/uiuc.png": "/frontend-react/static/media/uiuc.a999016ad6f721d5fb00.png",
+    "static/media/bolt.png": "/frontend-react/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/redux.png": "/frontend-react/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/frontend-react/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/frontend-react/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/frontend-react/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/right_arrow.png": "/frontend-react/static/media/right_arrow.e81901024619ea095535.png",
+    "static/media/graphql.png": "/frontend-react/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/frontend-react/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/frontend-react/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/frontend-react/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/frontend-react/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/frontend-react/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/frontend-react/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/frontend-react/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/frontend-react/index.html",
+    "static/media/circle.svg": "/frontend-react/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.3b8f547e.css.map": "/frontend-react/static/css/main.3b8f547e.css.map",
+    "main.e38c82ae.js.map": "/frontend-react/static/js/main.e38c82ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b8f547e.css",
+    "static/js/main.e38c82ae.js"
+  ]
+}
